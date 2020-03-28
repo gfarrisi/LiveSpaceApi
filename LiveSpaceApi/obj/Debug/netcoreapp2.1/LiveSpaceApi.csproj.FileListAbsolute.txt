@@ -1,0 +1,13 @@
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\bin\Debug\netcoreapp2.1\LiveSpaceApi.deps.json
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\bin\Debug\netcoreapp2.1\LiveSpaceApi.runtimeconfig.json
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\bin\Debug\netcoreapp2.1\LiveSpaceApi.runtimeconfig.dev.json
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\bin\Debug\netcoreapp2.1\LiveSpaceApi.dll
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\bin\Debug\netcoreapp2.1\LiveSpaceApi.pdb
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.RazorAssemblyInfo.cache
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.RazorAssemblyInfo.cs
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.AssemblyInfoInputs.cache
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.AssemblyInfo.cs
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.dll
+C:\Users\gabri\Github\LiveSpaceApi\LiveSpaceApi\obj\Debug\netcoreapp2.1\LiveSpaceApi.pdb

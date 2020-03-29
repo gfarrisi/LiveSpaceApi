@@ -3,8 +3,8 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:51895",
-      "sslPort": 44377
+      "applicationUrl": "http://localhost:51872",
+      "sslPort": 44346
     }
   },
   "profiles": {
@@ -16,7 +16,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "LiveSpaceApi": {
+    "IrisApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/account",
